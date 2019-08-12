@@ -15,7 +15,7 @@ cbb752 (at) gersteinlab.org
 | --- | --- | --- | --- |
 | Mark Gerstein | MG | Bass 432A | contact.gerstein.info |
 
-### Guest Instructors
+### Guest Instructors **[TBD]**
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
@@ -32,18 +32,18 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Donghoon Lee	| DL | Bass 437	| donghoon.lee (at) yale.edu |
 | Hussein Mohsen	| HM | Bass 437	| hussein.mohsen (at) yale.edu |
+| Jiahao Gao	| JG | Bass 437	| jiahao.gao (at) yale.edu |
 
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on Mon. Jan 14, 2019. Somewhat confusingly, Friday, January 18th has been declared an "academic Monday" due to Martin Luther King Jr. Day (1/21/2019), and so the course's **third** meeting will be on Friday, January 18th.
+The first lecture will be held on **[TBD]** ~~Mon. Jan 14, 2019. Somewhat confusingly, Friday, January 18th has been declared an "academic Monday" due to Martin Luther King Jr. Day (1/21/2019), and so the course's **third** meeting will be on Friday, January 18th.~~
 
 ### Snow Days (general policy)
 We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.
 
-### Grading Policy
+### Grading Policy **[TBD]**
 We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |

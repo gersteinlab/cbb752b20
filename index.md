@@ -1,6 +1,6 @@
 ## Course Description
 
-Rapid developments in bio- and information- technology and are changing the way that biomedical scientists interact with data. Traditionally, data were the end result of laborious experimentation, and their interpretation mostly involved careful thought and background knowledge. Today, data are increasingly generated much earlier in the scientific workflow and are much larger in scale. Also, before the data can be interpreted, extensive computational processing is often necessary. Thus, the data deluge in biomedicine now requires mining and modeling on a large scale - ie biomedical data science. 
+Rapid developments in bio- and information- technology and are changing the way that biomedical scientists interact with data. Traditionally, data were the end result of laborious experimentation, and their interpretation mostly involved careful thought and background knowledge. Today, data are increasingly generated much earlier in the scientific workflow and are much larger in scale. Also, before the data can be interpreted, extensive computational processing is often necessary. Thus, the data deluge in biomedicine now requires mining and modeling on a large scale - ie biomedical data science.
 
 This course aims to equip students with some of the concepts and skills relevant to biomedical data science, with an emphasis on bioinformatics, a sub-discipline of this broader field, through examples of mining and modeling of genomic and proteomic data. More specifically, bioinformatics encompasses the analysis of gene sequences, macromolecular structures, and functional genomics data on a large scale. It represents a major practical application for modern techniques in data mining and simulation. Specific topics to be covered include sequence alignment, large-scale processing, next-generation sequencing data, comparative genomics, phylogenetics, biological database design, geometric analysis of protein structure, molecular-dynamics simulation, biological networks, mining of functional genomics data sets, and machine learning approaches for data integration.
 
@@ -17,19 +17,19 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Lectures
 
-- MW 1:00 - 2:15 PM, Bass 305
+- **[TBD] ~~MW 1:00 - 2:15 PM, Bass 305~~**
 
 ### Discussion Section
 
-- Bass 405 or Bass 205 (subject to change)
+- **[TBD] ~~Bass 405 or Bass 205 (subject to change)~~**
 
 ## Different headings for this class (4 variants)
 
 - CB&B752/CPSC752 - Grad. w/ programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
-- MB&B752/MCDB752 - Grad. w/o programming 
-  - This graduate-level version of the course consists of lectures, in-class tests, 
+- MB&B752/MCDB752 - Grad. w/o programming
+  - This graduate-level version of the course consists of lectures, in-class tests,
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
 - MB&B 753b3/MB&B 754b4 - Modules
@@ -38,9 +38,9 @@ This course aims to equip students with some of the concepts and skills relevant
   - 754 - Biomedical Data Science: Modeling (2nd half of term)
   - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
-- MB&B452/MCDB452/S&DS352 - Undergrad. 
+- MB&B452/MCDB452/S&DS352 - Undergrad.
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CB752 can be substituted for the written work by permission of instructor.
- 
+
 - Auditing
   - This is allowed. We would strongly prefer if you would register for the class.
 
@@ -49,7 +49,7 @@ This course aims to equip students with some of the concepts and skills relevant
 The course is keyed towards CBB graduate students as well as advanced undergraduates and graduate students wishing to learn about types of large-scale quantitative analysis that whole-genome sequencing and forms of large-scale biological data will make possible. It would also be suitable for students from other fields such as computer science, statistics or physics wanting to learn about an important new biological application for computation.
 
 Students should have:
-- A basic knowledge of biochemistry and molecular biology. 
+- A basic knowledge of biochemistry and molecular biology.
 - A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
 
 These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
@@ -69,7 +69,7 @@ For references, please refer the previous [Quiz Archive](/quiz)
 ### Programming Assignments (Req'd for CBB and CS grad. students)
 - There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
 
-### Non-programming Assignments 
+### Non-programming Assignments
 - There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Syllabus
@@ -92,5 +92,5 @@ The course syllabus as a single PDF can be found [HERE](/syllabus)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)
-- Advertisement [Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)
+- Syllabus and class info dump in single PDF file: **[TBD] ~~[PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)~~**
+- Advertisement **[TBD] ~~[Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)~~**
