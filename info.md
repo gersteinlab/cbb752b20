@@ -38,7 +38,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on **[TBD]** ~~Mon. Jan 14, 2019. Somewhat confusingly, Friday, January 18th has been declared an "academic Monday" due to Martin Luther King Jr. Day (1/21/2019), and so the course's **third** meeting will be on Friday, January 18th.~~
+The first lecture will be held on Mon. Jan 13, 2020. Somewhat confusingly, Friday, January 17th has been declared an "academic Monday" due to Martin Luther King Jr. Day (01/20/2020), and so the course's **third** meeting will be on Friday, January 17th.
 
 ### Snow Days (general policy)
 We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.
