@@ -17,7 +17,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Lectures
 
-- **[TBD] ~~MW 1:00 - 2:15 PM, Bass 305~~**
+- MW 1:00 - 2:15 PM, Bass 305
 
 ### Discussion Section
 
