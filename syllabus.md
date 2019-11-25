@@ -4,5 +4,4 @@ layout: page
 ---
 
 ## Syllabus
-**[TBD]**
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRlP8NQFGVoS8YPmvTZIP3LgUGrDXwrNDdF8OjPqkiLz5LlrSXAKKYpuQAch6nX2NpXni3gSvEE4DL/pubhtml?gid=1407184193&amp;single=true&amp;widget=true&amp;headers=false" width="1150" height="1200" align="center"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyfpuPx_YVsYb2DHrAUYN7lNjZvlagm5L4azqElgYWfhVkIGN8-z_btKocBngDLotctXj7ye6XChyM/pubhtml?gid=472940486&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

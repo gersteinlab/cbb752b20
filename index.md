@@ -17,11 +17,11 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Lectures
 
-- **[TBD] ~~MW 1:00 - 2:15 PM, Bass 305~~**
+- MW 1:00 - 2:15 PM, Bass 305
 
 ### Discussion Section
 
-- **[TBD] ~~Bass 405 or Bass 205 (subject to change)~~**
+- Bass 405 or Bass 205 (subject to change). Time TBA.
 
 ## Different headings for this class (4 variants)
 
@@ -74,7 +74,7 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 ## Syllabus
 
-The course syllabus as a single PDF can be found [HERE](/syllabus)
+**[TBD]** ~~The course syllabus as a single PDF can be found [HERE](/syllabus)~~
 
 ## Pages from previous years
 - 2020 Spring is the 23rd time Bioinformatics has been taught at Yale. Pages for the 22 previous iterations of the class are available. Look at how things evolve!
@@ -92,5 +92,5 @@ The course syllabus as a single PDF can be found [HERE](/syllabus)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: **[TBD] ~~[PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)~~**
-- Advertisement **[TBD] ~~[Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)~~**
+- Syllabus and class info dump in single PDF file: **[TBD]** ~~[PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)~~
+- Advertisement **[TBD]** ~~[Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)~~

@@ -39,13 +39,13 @@ Reading assignments for discussion sessions are listed below:
 
 #### Reading Assignment
 
-### Session 3,	2/8, BASS 434 for Session 1, BASS 205 for Session 2 (Note Room Change)
+### Session 3,	2/8, BASS 405 for both Sessions
 
 #### Topic
 
 #### Reading Assignment
 
-### Session 4,	2/15, BASS 434 for Session 1, BASS 405 for Session 2 (Note Room Change)
+### Session 4,	2/15, BASS 405 for both Sessions
 
 #### Topic
 
@@ -57,7 +57,7 @@ Reading assignments for discussion sessions are listed below:
 
 #### Reading Assignment
 
-### Session 6,	3/1, BASS 405 for Session 1, BASS 205 for Session 2 (Note Room Change)
+### Session 6,	3/1, BASS 405 for both Sessions
 
 #### Topic
 
@@ -65,7 +65,7 @@ Reading assignments for discussion sessions are listed below:
 
 ### (spring recess)
 
-### Session 7, 3/29,	BASS 405 for Session 1, BASS 205 for Session 2 (Note Room Change)
+### Session 7, 3/29,	BASS 405 for both Sessions
 
 #### Topic
 
@@ -77,7 +77,7 @@ Reading assignments for discussion sessions are listed below:
 
 #### Reading Assignment
 
-### Session 9, 4/12, BASS 434 for Session 1, BASS 405 for Session 2 (Note Room Change)
+### Session 9, 4/12, BASS 405 for both Sessions
 
 #### Topic
 
