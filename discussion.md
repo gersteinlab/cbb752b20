@@ -23,67 +23,11 @@ We would like to encourage electronic submission, via Canvas. For those who have
 * If you are presenting, you are exempt from writing a summary.
 * Please notify TFs in advance if you cannot come to the discussion session. Student **can miss up to one discussion section without a penalty**.
 
-## Section Readings **[TBD]**
+## Section Readings
 
 Reading assignments for discussion sessions are listed below:
 
-### Session 1, 1/25, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 2,	2/1, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 3,	2/8, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 4,	2/15, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 5,	2/22, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 6,	3/1, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### (spring recess)
-
-### Session 7, 3/29,	BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 8,	4/5, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 9, 4/12, BASS 405 for both Sessions
-
-#### Topic
-
-#### Reading Assignment
-
-### Session 10, 4/19, BASS 405 for both Sessions
+### Session 1, 1/24, BASS 405 for both Sessions [Tentative]
 
 #### Topic
 

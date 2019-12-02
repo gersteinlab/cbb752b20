@@ -15,7 +15,7 @@ cbb752 (at) gersteinlab.org
 | --- | --- | --- | --- |
 | Mark Gerstein | MG | Bass 432A | contact.gerstein.info |
 
-### Guest Instructors **[TBD]**
+### Guest Instructors
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
