@@ -10,7 +10,7 @@ layout: page
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
 | Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; |
-| Section 2 | 1:00-2:00 PM | BASS 405 | &nbsp; |
+| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 |
 
 ### Format
 
