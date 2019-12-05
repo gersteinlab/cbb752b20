@@ -82,7 +82,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5,	2/21, for Session 1, BASS 434 for Session 2 (Note Room Change)
+### Session 5,	2/21, BASS 405 for Session 1, BASS 434 for Session 2 (Note Room Change)
 
 #### Topic
 * Debate II - Phylogenetics
