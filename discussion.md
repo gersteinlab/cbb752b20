@@ -9,8 +9,8 @@ layout: page
 
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
-| Section 1 | TBA | BASS 405 | &nbsp; |
-| Section 2 | TBA | BASS 405 | &nbsp; |
+| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; |
+| Section 2 | 1:00-2:00 PM | BASS 405 | &nbsp; |
 
 ### Format
 
@@ -27,8 +27,12 @@ We would like to encourage electronic submission, via Canvas. For those who have
 
 Reading assignments for discussion sessions are listed below:
 
-### Session 1, 1/24, BASS 405 for both Sessions [Tentative]
+#### (Optional) Suggested Reading for Week 1 (There will be a class instead of discussion session on 1/18/2019)
+* How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 #### Topic
+* Next-Gen Sequencing and database
 
 #### Reading Assignment
+* Goodwin S. et al. "Coming of age: ten years of next-generation sequencing technologies" Nature Reviews Genetics. 17 (2016) [[PDF]](http://www.nature.com/nrg/journal/v17/n6/pdf/nrg.2016.49.pdf)
+* Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)

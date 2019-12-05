@@ -21,7 +21,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Discussion Section
 
-- Bass 405 or Bass 205 (subject to change). Time TBA.
+- Bass 405. F 9:30-10:30 AM or F 1:00-2:00 PM.
 
 ## Different headings for this class (4 variants)
 
