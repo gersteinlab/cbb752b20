@@ -9,10 +9,10 @@ layout: page
     <li>
 		Spring 2019 **[TBD]**:
 		<a href="http://cbb752b19.gersteinlab.org/">Main Page</a>,
-		<a >Quiz 1</a>,
-		<a >Quiz 1 Key</a>,
-		<a >Quiz 2</a>,
-		<a >Quiz 2 Key</a>		
+        <a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_quiz1_wSoln.docx">Quiz 1 key</a>,
+        <a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_quiz2_wSoln.docx">Quiz 2 key</a>,
+		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw1.pdf">HW1</a>,
+		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw2.pdf">HW2</a>
 	</li>
 	<li>
 		Spring 2018:

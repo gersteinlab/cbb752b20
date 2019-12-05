@@ -43,7 +43,7 @@ The first lecture will be held on Mon. Jan 13, 2020. Somewhat confusingly, Frida
 ### Snow Days (general policy)
 We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.
 
-### Grading Policy **[TBD]**
+### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |

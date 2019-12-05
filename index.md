@@ -21,7 +21,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Discussion Section
 
-- Bass 405. F 9:30-10:30 AM or F 1:00-2:00 PM.
+- F 9:30-10:30 AM or F 1:00-2:00 PM, Bass 405
 
 ## Different headings for this class (4 variants)
 
@@ -74,7 +74,7 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 ## Syllabus
 
-**[TBD]** ~~The course syllabus as a single PDF can be found [HERE](/syllabus)~~
+The course syllabus as a single PDF can be found **[TBD]** [HERE]()
 
 ## Pages from previous years
 - 2020 Spring is the 23rd time Bioinformatics has been taught at Yale. Pages for the 22 previous iterations of the class are available. Look at how things evolve!
@@ -92,5 +92,4 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: **[TBD]** ~~[PDF v1](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Syllabus_v2.pdf)~~
-- Advertisement **[TBD]** ~~[Poster](http://files.gersteinlab.org/public-docs/2019/01.14/cbb752b19/CBB752_Poster_A4.pdf)~~
+- Syllabus and class info dump in single PDF file: **[TBD]** [PDF v1]() or [PDF v2]()

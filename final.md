@@ -9,6 +9,7 @@ Presentation Day: April 22nd (Wednesday) 2020, 1:00 PM, BASS 305
 Write-up DUE DATE: **[TBA]**
 
 Students will collaboratively work on analyzing of Carl Zimmer’s personal genome.
+
 Details **[TBA]**
 
 ### Previous Years
