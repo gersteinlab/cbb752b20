@@ -25,10 +25,10 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ## Different headings for this class (4 variants)
 
-- CBB752/CPSC752 - Grad. w/ programming
+- CBB752/CPSC752 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
-- MB&B752/MCDB752 - Grad. w/o programming
+- MB&B752/MCDB752 - Grad. without programming
   - This graduate-level version of the course consists of lectures, in-class tests,
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
