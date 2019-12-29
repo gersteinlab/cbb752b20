@@ -9,9 +9,8 @@ This course aims to equip students with some of the concepts and skills relevant
 (Module = Group of Lectures)
 
 - Introduction
-- Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c)
-- Module on Databases & Data Science Issues (Knowledge Representation incl. Sem. Web & Privacy, Provenance & Standards)
-- Module on Mining (Alignment & Variant Calling, Supervised & Unsupervised Approaches, Networks)
+- Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c). This module also includes discussion of databases and knowledge representation issues.
+- Module on Mining (Alignment & variant calling necessary for personal genomics; Basic multi-omics calculations; Supervised & unsupervised mining approaches towards multi-omic data; Networks)
 - Module on Cell Modeling
 - Module on Molecular Modeling
 
@@ -72,10 +71,6 @@ For references, please refer the previous [Quiz Archive](/quiz)
 ### Non-programming Assignments
 - There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
-## Syllabus
-
-The course syllabus as a single PDF can be found **[TBD]** [HERE]()
-
 ## Pages from previous years
 - 2020 Spring is the 23rd time Bioinformatics has been taught at Yale. Pages for the 22 previous iterations of the class are available. Look at how things evolve!
 - [2019 Spring](http://cbb752b19.gersteinlab.org)
@@ -92,4 +87,4 @@ The course syllabus as a single PDF can be found **[TBD]** [HERE]()
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: **[TBD]** [PDF v1]() or [PDF v2]()
+- Syllabus and class info dump in single PDF file: **[TBD]** [PDF v1]() 
