@@ -87,4 +87,4 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: **[TBD]** [PDF v1]() 
+- Syllabus and class info dump in single PDF file: [PDF v1]() or [PDF v2]() 
