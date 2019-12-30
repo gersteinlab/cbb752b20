@@ -56,7 +56,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3,	2/7, BASS 434 for both Sessions
+### Session 3,	2/7, BASS 405 for both Sessions
 
 #### Topic
 * Debate I
@@ -70,7 +70,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4,	2/14, BASS 434 for both Sessions
+### Session 4,	2/14, BASS 405 for both Sessions
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
