@@ -6,11 +6,11 @@ layout: page
 ## Final Project
 Presentation Day: April 22nd (Wednesday) 2020, 1:00 PM, BASS 305
 
-Write-up DUE DATE: **[TBA]**
+Write-up DUE DATE: May 1st (Friday) 2019, 11:59pm (subject to change)
 
 Students will collaboratively work on analyzing of Carl Zimmer’s personal genome.
 
-Details **[TBA]**
+Details will be announce later in class.
 
 ### Previous Years
 You can get a flavor for the Final Project by looking at the project from last year, linked below.
