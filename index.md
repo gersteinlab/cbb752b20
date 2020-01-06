@@ -24,20 +24,20 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ## Different headings for this class (4 variants)
 
-- CBB752/CPSC752 - Grad. with programming
+- CBB 752 / CPSC 752 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
-- MB&B752/MCDB752 - Grad. without programming
+- MB&B 752 / MCDB 752 - Grad. without programming
   - This graduate-level version of the course consists of lectures, in-class tests,
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
-- MB&B 753b3/MB&B 754b4 - Modules
+- MB&B 753b3 / MB&B 754b4 - Modules
   - For graduate students the course can be broken up into two "modules" (each counting 0.5 credit towards MB&B course requirement):
   - 753 - Biomedical Data Science: Mining (1st half of term)
   - 754 - Biomedical Data Science: Modeling (2nd half of term)
   - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
-- MB&B452/MCDB452/S&DS352 - Undergrad.
+- MB&B 452 / MCDB 452 / S&DS 352 - Undergrad.
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CB752 can be substituted for the written work by permission of instructor.
 
 - Auditing
@@ -88,3 +88,4 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 ## Class data dump
 - Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2019/12.30/CBB752b20_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/12.30/CBB752b20_Syllabus_v2.pdf) 
+- Class poster: [PDF](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752_Poster_A4_2020.pdf)
