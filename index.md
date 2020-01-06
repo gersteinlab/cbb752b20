@@ -87,5 +87,5 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2019/12.30/CBB752b20_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2019/12.30/CBB752b20_Syllabus_v2.pdf) 
+- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752b20_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752b20_Syllabus_v2.pdf) 
 - Class poster: [PDF](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752_Poster_A4_2020.pdf)
