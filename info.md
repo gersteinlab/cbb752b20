@@ -13,7 +13,7 @@ cbb752 (at) gersteinlab.org
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Mark Gerstein | MG | Bass 432A | contact.gerstein.info |
+| Mark Gerstein | MG | Bass 432A | [contact.gerstein.info](contact.gerstein.info) |
 
 ### Guest Instructors
 
