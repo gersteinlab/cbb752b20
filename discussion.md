@@ -96,23 +96,22 @@ Reading assignments for discussion sessions are listed below:
 ### Session 6,	2/28, BASS 405 for both Sessions
 
 #### Topic
-* Deep learning for genomics
+Debate III - Cancer incidence
 
 #### Reading Assignment
-* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
-* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
+* Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
+* The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 
 ---
 
 ### Session 7, 3/6,	BASS 405 for both Sessions
 
 #### Topic
-* Protein structure and biophysics
+* Deep learning for genomics
 
 #### Reading Assignment
-* Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
-* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
-* Bowman GR, Beauchamp KA, Boxer G, Pande VS. “Progress and challenges in the automated construction of Markov state models for full protein systems,” J. Chem. Phys. 131 (2009) 124101 [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/bowman.pdf)
+* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
+* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
 
 ---
 
@@ -134,11 +133,12 @@ Reading assignments for discussion sessions are listed below:
 ### Session 9, 4/3, BASS 405 for both Sessions
 
 #### Topic
-Debate III - Cancer incidence
+* Protein structure and biophysics
 
 #### Reading Assignment
-* Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
-* The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
+* Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
+* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
+* Bowman GR, Beauchamp KA, Boxer G, Pande VS. “Progress and challenges in the automated construction of Markov state models for full protein systems,” J. Chem. Phys. 131 (2009) 124101 [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/bowman.pdf)
 
 ---
 
