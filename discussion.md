@@ -23,6 +23,12 @@ We would like to encourage electronic submission, via Canvas. For those who have
 * If you are presenting, you are exempt from writing a summary.
 * Please notify TFs in advance if you cannot come to the discussion session. Student **can miss up to one discussion section without a penalty**.
 
+For write-ups and presentation, think about the following:  
+* What was missing in the field? (introduction/background)
+* What were the questions the paper aim to address? (hypothesis)
+* What they did and what was the breakthrough? (method/results)
+* Conclusion and future direction (discussion/conclusion)
+
 ## Section Readings
 
 Reading assignments for discussion sessions are listed below:
