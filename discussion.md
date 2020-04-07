@@ -7,10 +7,10 @@ layout: page
 
 ### Time and Location
 
-| Session | Time | Location | Note | Zoom link |
-| --- | --- | --- | --- | --- |
-| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; | [zoom](https://yale.zoom.us/j/681976964) |
-| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 | [zoom](https://yale.zoom.us/j/375287232) |
+| Session | Time | Location | Note |
+| --- | --- | --- | --- |
+| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; |
+| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 |
 
 ### Format
 
