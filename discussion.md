@@ -7,10 +7,10 @@ layout: page
 
 ### Time and Location
 
-| Session | Time | Location | Note |
-| --- | --- | --- | --- |
-| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; |
-| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 |
+| Session | Time | Location | Note | Zoom link |
+| --- | --- | --- | --- | --- |
+| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; | [zoom](https://yale.zoom.us/j/681976964) |
+| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 | [zoom](https://yale.zoom.us/j/375287232) |
 
 ### Format
 
@@ -125,7 +125,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 8,	3/27, BASS 405 for both Sessions
+### Session 8,	3/27, Zoom meeting
 
 #### Topic
 * Immune system modelling and dynamics
@@ -136,7 +136,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 9, 4/3, BASS 405 for both Sessions
+### Session 9, 4/3, Zoom meeting
 
 #### Topic
 * Protein structure and biophysics
@@ -148,7 +148,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 10, 4/10, BASS 405 for both Sessions
+### Session 10, 4/17, Zoom meeting
 
 #### Topic
 * Help session on quiz 2 / final project
