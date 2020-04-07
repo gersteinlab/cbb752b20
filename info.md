@@ -48,11 +48,11 @@ We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
 |---|---|
-| Midterm Quiz |	15% |
-| Final Quiz |	15% |
-| Discussion Section |	20% |
-| Homeworks	| 20% |
-| Final Project	| 30% |
+| Discussion Section | 30% |
+| Midterm Quiz       | 15% |
+| Homework 1         | 10% |
+| Homework 2         | 15% |
+| Final Project	     | 30% |
 
 ### Relevant Yale College Regulations
 
