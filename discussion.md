@@ -151,7 +151,7 @@ Debate III - Cancer incidence
 ### Session 10, 4/17, Zoom meeting
 
 #### Topic
-* Help session on quiz 2 / final project
+* Help session on HW 2 / final project
 
 #### Reading Assignment
 * (no reading assignment this week)
