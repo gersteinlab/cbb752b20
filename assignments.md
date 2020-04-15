@@ -15,4 +15,4 @@ The following link will direct you to the file for [questions](https://yale.inst
 DUE DATE: April 28th (Tuesday) 2020, 11:59pm
 
 Homework 2 is available via canvas.
-The following link will direct you to the file for [questions](https://yale.instructure.com/files/3795296/download?download_frd=1)(You will need to sign-in to canvas)
+The following link will direct you to the file for [questions](https://yale.instructure.com/files/3795296/download?download_frd=1) and [supplementary files for programming version](https://yale.instructure.com/files/3795283/download?download_frd=1) (You will need to sign-in to canvas)
