@@ -10,7 +10,7 @@ layout: page
 
 Students will collaboratively work on analyzing of Carl Zimmer’s personal genome.
 
-[Download Full Description of the Final Project](http://files2.gersteinlab.org/public-docs/2021/02.01/CBB752b20_Final_Project_description.pdf)
+[Download Full Description of the Final Project](http://files.gersteinlab.org/public-docs/2021/02.01/CBB752b20_Final_Project_description.pdf)
 
 ### Previous Years
 You can get a flavor for the Final Project by looking at the project from last year, linked below.
